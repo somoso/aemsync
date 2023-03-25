@@ -1,7 +1,11 @@
 aemsync
 =======
 
-The code and content synchronization for Sling / AEM (Adobe Experience Manager).
+The code and content synchronization for Sling / AEM (Adobe Experience Manager). 
+
+This repository has been forked and updated from [gavovja's](https://github.com/gavoja/aemsync) repository. I'll update
+the repo for my needs - if it helps you out, then great. If not, you can fork the parent and tweak the code to your 
+liking ;)
 
 ### Synopsis
 
@@ -16,7 +20,7 @@ The tool pushes content to AEM instance(s) upon a file change.
 With [npm](http://npmjs.org) do:
 
 ```
-npm install aemsync -g
+npm install somoso/aemsync -g
 ```
 
 ### Usage
