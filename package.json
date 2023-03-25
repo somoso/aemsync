@@ -1,8 +1,9 @@
 {
   "name": "aemsync",
-  "version": "5.0.4",
+  "version": "5.0.5",
   "description": "The code and content synchronization for Sling / AEM (Adobe Experience Manager).",
   "author": "Michal Kochel <gavoja@gmail.com>",
+  "contributors": [{"name": "Soheb"}],
   "type": "module",
   "keywords": [
     "Adobe",
